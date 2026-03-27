@@ -142,7 +142,7 @@ html {
 
 .papier {
 	color: #000000;
-	background-color:#ffff00;
+	background-color: #142A91;
 	font-weight:bold;
 	padding-top : 10px;
 	padding-left : 10px;
@@ -150,7 +150,6 @@ html {
 	padding-bottom : 20px;
 	width : 90% ;
 	max-width:500px; 
-	border: 2px solid #ff0000;
 	text-align: center;
 	position:middle;
 	vertical-align: top;
@@ -158,11 +157,24 @@ html {
 	 margin-right: auto;
 }
 
+.papier a {
+    color: white;
+}
+
+
+
+
+
+
+
+
+
 .cv_liens {
     display: flex;
     justify-content: center;
     gap: 30px;
     flex-wrap: wrap;
+    color: black;
 }
 
 
