@@ -157,8 +157,29 @@ html {
 	 margin-right: auto;
 }
 
+.rapport {
+	color: #000000;
+	background-color: #142A91;
+	font-weight:bold;
+	padding-top : 10px;
+	padding-left : 10px;
+	padding-right : 10px;
+	padding-bottom : 20px;
+	width : 90% ;
+	max-width:500px; 
+	text-align: center;
+	position:middle;
+	vertical-align: top;
+	 margin-left: auto;
+	 margin-right: auto;
+}
+
 .papier a {
     color: white;
+}
+
+.etape a {
+    color:white
 }
 
 .cv_liens {
